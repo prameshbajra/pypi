@@ -1,0 +1,8 @@
+setup.py
+telqtest1/__init__.py
+telqtest1.egg-info/PKG-INFO
+telqtest1.egg-info/SOURCES.txt
+telqtest1.egg-info/dependency_links.txt
+telqtest1.egg-info/requires.txt
+telqtest1.egg-info/top_level.txt
+telqtest1/telq/__init__.py
