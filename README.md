@@ -1,4 +1,7 @@
 # pypi
+
+> This is cool and all but make sure you check poetry before you proceed with this. Poetry has first class support for version and is pretty cool.
+
 Working prototype to publish python packages to PIP
 
 1. Make sure you have setuptools installed. This is available by default in Python3.
